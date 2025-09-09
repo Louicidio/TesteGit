@@ -3,6 +3,10 @@
 using namespace std;
 
 int main(){
-    cout << "Hello, Git!" << endl;
+    int i = 3;
+    int f = 2;
+
+    cout << "i + f = " << i + f << endl;
+
     return 0;
 }
